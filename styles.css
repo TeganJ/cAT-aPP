@@ -1,0 +1,21 @@
+body {
+  background-color: navy;
+}
+a {
+  color: purple;
+}
+li {
+  color: pink;
+}
+h1 {
+  color: aqua;
+}
+p {
+  padding: 6px 12px;
+  border: 12px solid white;
+  border-radius: 36px;
+  color: purple;
+}
+h2 h3 {
+  color: lime;
+}
